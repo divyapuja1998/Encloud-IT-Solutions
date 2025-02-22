@@ -21,8 +21,8 @@ This project ensures a modern, interactive, and user-friendly experience, aligni
 ### 🔹 Homepage
 ![Homepage Screenshot](https://github.com/user-attachments/assets/41b56927-5d1d-4176-b603-3faca687bd37)
 
-### 🔹 Dashboard
-![Dashboard Screenshot](path/to/dashboard-screenshot.png)
+### 🔹 ContactPage
+![ContactPage Screenshot](https://github.com/user-attachments/assets/c550db6a-947e-4db8-a6eb-1c185bddd69b)
 
 ## 🎥 Demo Video
 
