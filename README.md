@@ -2,6 +2,8 @@
 
 ![Project Banner](path/to/banner-image.png)
 
+![Project Banner](https://github.com/user-attachments/assets/5ab882f1-bf7b-4adf-9434-8cf36b2dd17e)
+
 ## 📖 Overview
 
 A brief introduction to your project. Explain what it does, its purpose, and its key features.
