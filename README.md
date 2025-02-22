@@ -16,7 +16,7 @@ A brief introduction to your project. Explain what it does, its purpose, and its
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-(https://github.com/user-attachments/assets/41b56927-5d1d-4176-b603-3faca687bd37)
+![Homepage Screenshot]((https://github.com/user-attachments/assets/41b56927-5d1d-4176-b603-3faca687bd37)
 
 ### 🔹 Dashboard
 ![Dashboard Screenshot](path/to/dashboard-screenshot.png)
