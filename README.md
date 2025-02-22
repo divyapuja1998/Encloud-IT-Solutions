@@ -16,8 +16,7 @@ A brief introduction to your project. Explain what it does, its purpose, and its
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage Screenshot](path/to/homepage-scre![Bold Black and White Motivational Twitter Post](https://github.com/user-attachments/assets/41b56927-5d1d-4176-b603-3faca687bd37)
-enshot.png)
+(https://github.com/user-attachments/assets/41b56927-5d1d-4176-b603-3faca687bd37)
 
 ### 🔹 Dashboard
 ![Dashboard Screenshot](path/to/dashboard-screenshot.png)
