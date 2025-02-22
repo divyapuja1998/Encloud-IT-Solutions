@@ -26,10 +26,6 @@ This project ensures a modern, interactive, and user-friendly experience, aligni
 ### 🔹 ContactPage
 ![ContactPage Screenshot](https://github.com/user-attachments/assets/c550db6a-947e-4db8-a6eb-1c185bddd69b)
 
-## 🎥 Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
 ## 📬 Contact
 
 For questions, reach out to:
