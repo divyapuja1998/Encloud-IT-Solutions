@@ -14,7 +14,16 @@ The primary goal of this website is to showcase EnCloud IT Solutions' offerings,
 - 🎨 **Animated Elements:** Integrated smooth animations to enhance user engagement.
 - 🎭 **Bootstrap & React Icons:** Utilized Bootstrap for responsive design and React Icons for visually appealing UI elements.
 - 📩 **EmailJS Integration:** Implemented EmailJS to enable users to send inquiries via the contact page.
-- 🔝 **Scroll to Top Feature:** Developed a `ScrollToTop` component to ensure smooth navigation by automatically scrolling to the top when switching pages.
+- 🔝 **Scroll to Top Feature:** Utilizes `useEffect` to automatically scroll to the top when navigating between pages.
+- ⚙️ **State Management with useState** – Efficient handling of dynamic UI changes.
+- 🛣️ **Routing with React Router** – Implements `BrowserRouter`, `Route`, and `Routes` for smooth and efficient navigation. 
+
+## Technologies Used 💻
+- ⚛️ **React** – For building the user interface. 
+- 💅 **Bootstrap** – For responsive design and layout. 
+- 🎭 **React Icons** – For incorporating scalable icons. 
+- 📬 **EmailJS** – For email functionality on the contact page. 
+- 🗺️ **React Router** – For handling navigation and routing. 
 
 This project ensures a modern, interactive, and user-friendly experience, aligning with the client’s business objectives. 🚀
 
