@@ -30,7 +30,8 @@ This project ensures a modern, interactive, and user-friendly experience, aligni
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage Screenshot](https://github.com/user-attachments/assets/41b56927-5d1d-4176-b603-3faca687bd37)
+![Homepage Screenshot](https://github.com/user-attachments/assets/08db0cb7-c55d-4efe-a279-1ccdb9271d04)
+
 
 ### 🔹 ContactPage
 ![ContactPage Screenshot](https://github.com/user-attachments/assets/c550db6a-947e-4db8-a6eb-1c185bddd69b)
